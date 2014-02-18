@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1392720753 source:/home/thai/Desktop/Thai/ChiTietMay/main.cpp
+	<iostream>
+	<Don.h>
+
+1392720137 source:/home/thai/Desktop/Thai/ChiTietMay/src/Don.cpp
+	"Don.h"
+	<iostream>
+
+1392720137 /home/thai/Desktop/Thai/ChiTietMay/include/Don.h
+	<iostream>
+
