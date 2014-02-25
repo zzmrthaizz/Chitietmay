@@ -1,12 +1,26 @@
 # depslib dependency file v1.0
-1392720753 source:/home/thai/Desktop/Thai/ChiTietMay/main.cpp
+1393317429 source:/home/thai/Desktop/Thai/ChiTietMay/main.cpp
 	<iostream>
 	<Don.h>
+	<Phuc.h>
 
-1392720137 source:/home/thai/Desktop/Thai/ChiTietMay/src/Don.cpp
+1393317736 source:/home/thai/Desktop/Thai/ChiTietMay/src/Don.cpp
 	"Don.h"
+
+1393317670 /home/thai/Desktop/Thai/ChiTietMay/include/Don.h
+	"ChiTiet.h"
+
+1393317686 /home/thai/Desktop/Thai/ChiTietMay/include/ChiTiet.h
 	<iostream>
 
-1392720137 /home/thai/Desktop/Thai/ChiTietMay/include/Don.h
+1393317679 /home/thai/Desktop/Thai/ChiTietMay/include/Phuc.h
+	"ChiTiet.h"
 	<iostream>
+
+1393317698 source:/home/thai/Desktop/Thai/ChiTietMay/src/ChiTiet.cpp
+	"ChiTiet.h"
+
+1393318144 source:/home/thai/Desktop/Thai/ChiTietMay/src/Phuc.cpp
+	"Phuc.h"
+	"Don.h"
 
